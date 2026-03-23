@@ -9,5 +9,6 @@ catboost
 xgboost
 Flask
 dill
-mlflow==2.2.2
+mlflow
+dagshub
 # -e .
