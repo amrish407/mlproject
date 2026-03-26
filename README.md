@@ -63,7 +63,7 @@ The project aims to understand how various factors influence student academic pe
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone [https://github.com/amrish407/student-performance-prediction.git]
    cd "Data Science"
    ```
 
@@ -154,7 +154,6 @@ Access at: http://localhost:5000
 ├── app.py                            # Main training script
 ├── requirements.txt                  # Python dependencies
 ├── setup.py                          # Package configuration
-├── Dockerfile                        # Containerization (empty)
 └── .env                              # Environment variables
 ```
 
